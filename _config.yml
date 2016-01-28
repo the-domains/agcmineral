@@ -1,7 +1,7 @@
 name: AGCMineral
 favicon: null
 layout_spectrum: 0.29907260625623167
-typography_spectrum: 0.21880841860547662
+typography_spectrum: 0.48827
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.13862048904411495
+  brandStrength: 0.5
   lightness: 0.8968895524740219
   saturation: 0.7470473689027131
   rhythmicContrast: 0.9082421269267797
