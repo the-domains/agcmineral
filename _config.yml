@@ -1,7 +1,7 @@
 name: AGCMineral
 favicon: null
 layout_spectrum: 0.74458
-typography_spectrum: 0.48827
+typography_spectrum: 1
 title: AGC Mineral Company
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#d6c8bb'
-    - '#bf9461'
-    - '#9b7340'
-    - '#452818'
-  brandStrength: 0.5
-  lightness: 0.8968895524740219
-  saturation: 0.7470473689027131
-  rhythmicContrast: 0.75
+    - '#010200'
+    - '#fee95c'
+    - '#d17c00'
+    - '#40a78a'
+    - '#1b6a3a'
+  brandStrength: 0.9375
+  lightness: 0.5
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
