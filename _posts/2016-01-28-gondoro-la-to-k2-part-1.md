@@ -17,7 +17,7 @@ keywords:
   - trekimages
   - mountains
 description: 'A trek to K2 and Concordia, following the high route over the Gondoro La pass. Part 1 takes us from Hushe over the Gondoro La pass to Concordia.'
-datePublished: '2016-01-28T10:44:32.239Z'
+datePublished: '2016-01-28T10:44:32.204Z'
 dateModified: '2016-01-28T10:44:27.632Z'
 author:
   - name: trekimages
